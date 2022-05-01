@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi, I'm Kanghyun! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55"> 
 
-[![Kanghyun's github stats](https://github-readme-stats.vercel.app/api?username=kanghyun98)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />
-</p>
+<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Frontend Developer (dreaming of becoming a Full Stack Developer)</em>
+
+```js
+const kanghyun = {
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
+  tools: {
+    frontend: {
+      ui: ['React', 'Next.js', 'React-Native'],
+      stateManagement: ['Redux', 'Jotai', 'React-Query'],
+      etc: ['Storybook'],
+    },
+    backend: {
+      server: ['Node.js', 'Express.js'],
+      database: ['MySQL'],
+      orm: ['Sequelize', 'TypeORM'],
+      etc: ['Swagger'],
+    },
+    etc: ['Git', 'Docker', 'AWS'],
+    wantToLearn: ['Jest', 'Functional-Programming'],
+  },
+};
+```
+</br>
+
+<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">무엇이든 함께하는 것을 좋아합니다.</br><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">더 나은 세상을 만들고 싶습니다.</em>
