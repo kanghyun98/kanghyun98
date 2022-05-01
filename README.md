@@ -1,6 +1,6 @@
-## Hi, I'm Kanghyun! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55"> 
+## Hi, I'm Kanghyun! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> 
 
-<em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Frontend Developer (dreaming of becoming a Full Stack Developer)</em>
+<em>I'm a Frontend Developer (dreaming of becoming a Full Stack Developer)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
 
 ```js
 const kanghyun = {
