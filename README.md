@@ -24,4 +24,4 @@ const kanghyun = {
 ```
 </br>
 
-<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">무엇이든 함께하는 것을 좋아합니다.</br><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">더 나은 세상을 만들고 싶습니다.</em>
+<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">무엇이든 함께하는 것을 좋아합니다.</br><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">성장하는 개발자가 되고 싶습니다.</em>
