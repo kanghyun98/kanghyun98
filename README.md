@@ -9,6 +9,7 @@ const kanghyun = {
     frontend: {
       ui: ['React', 'Next.js'],
       stateManagement: ['Redux'],
+      etc: ['Storybook'],
     },
     backend: {
       server: ['Node.js', 'Express.js'],
@@ -17,9 +18,9 @@ const kanghyun = {
       etc: ['Swagger'],
     },
     etc: ['Git', 'Docker', 'AWS'],
-    learning: ['React-Native', 'Jotai', 'React-Query', 'Storybook'],
-    wantToLearn: ['Jest', 'Functional-Programming'],
   },
+  learning: ['React-Native', 'Jotai', 'React-Query'],
+  wantToLearn: ['Jest', 'Functional-Programming'],
 };
 ```
 </br>
