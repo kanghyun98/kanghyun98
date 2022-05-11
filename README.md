@@ -7,9 +7,8 @@ const kanghyun = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
   tools: {
     frontend: {
-      ui: ['React', 'Next.js', 'React-Native'],
-      stateManagement: ['Redux', 'Jotai', 'React-Query'],
-      etc: ['Storybook'],
+      ui: ['React', 'Next.js'],
+      stateManagement: ['Redux'],
     },
     backend: {
       server: ['Node.js', 'Express.js'],
@@ -18,6 +17,7 @@ const kanghyun = {
       etc: ['Swagger'],
     },
     etc: ['Git', 'Docker', 'AWS'],
+    learning: ['React-Native', 'Jotai', 'React-Query', 'Storybook'],
     wantToLearn: ['Jest', 'Functional-Programming'],
   },
 };
