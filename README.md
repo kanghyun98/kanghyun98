@@ -12,7 +12,7 @@ const kanghyun = {
       framework: ['React.js', 'Vue.js', 'Next.js', 'React Native', 'Gatsby.js'],
       state: ['Redux', 'Zustand', 'Jotai', 'React-Query'],
       style: ['PostCSS', 'Tailwind', 'Emotion', 'Vanilla Extract'],
-      etc: ['Storybook', ],
+      etc: ['Storybook'],
     },
     backend: {
       server: ['Express.js'],
