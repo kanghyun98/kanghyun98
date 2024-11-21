@@ -25,3 +25,11 @@ const kanghyun = {
   },
 };
 ```
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kanghyun98?pet-id=647328823828012484"
+    width="400"
+    height="90"
+  />
+</a>
