@@ -1,27 +1,26 @@
-### 안녕하세요. '성장'을 즐기고, <br/>'함께하고 싶은 사람'이라는 목표를 가진 <br/>프론트엔드 개발자 이강현입니다.🧑🏻‍💻
+### 안녕하세요! 프론트엔드 개발자 이강현입니다.
 
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em>좋은 코드와 더 나은 개발 문화를 위한 고민을 생활화합니다.</em>  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em>생각에서 그치지 않고 실행으로 옮기며 성장합니다.</em>  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>다양한 경험과 함께 자라기에 관심이 많습니다.</em>  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>실력과 소통 능력을 모두 갖춘 '함께하고 싶은 사람'이 되기 위해 노력합니다.</em>  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em>지속 가능한 프로덕트를 위해, 좋은 코드와 개발 문화를 고민합니다.</em>  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em>임시 방편보다 근본적인 해결을 추구합니다.</em>  
 
 ```js
 const kanghyun = {
   langs: ['Javascript', 'Typescript', 'Python'],
   tools: {
-    frontend: {
-      framework: ['React.js', 'Vue.js', 'Next.js', 'React Native', 'Gatsby.js'],
-      state: ['Redux', 'Zustand', 'Jotai', 'React-Query'],
-      style: ['PostCSS', 'Tailwind', 'Emotion', 'Vanilla Extract'],
-      etc: ['Storybook'],
-    },
-    backend: {
-      server: ['Express.js'],
-      database: ['MySQL', 'PostgreSQL'],
-      orm: ['Sequelize', 'TypeORM', 'Prisma'],
-      etc: ['Swagger'],
-    },
-    etc: ['Git', 'Docker', 'AWS'],
+    frontend: [
+      ['React.js', 'Next.js', 'React Native', 'Gatsby.js'],
+      ['Redux', 'Zustand', 'Jotai', 'React-Query'],
+      ['PostCSS', 'Tailwind', 'Emotion', 'Vanilla Extract'],
+      ['Storybook'],
+    ],
+    backend: [
+      ['Express.js'],
+      ['MySQL', 'PostgreSQL'],
+      ['Sequelize', 'TypeORM', 'Prisma'],
+      ['Swagger'],
+    ],
+    etc: ['Git', 'Docker', 'AWS', 'Jira'],
   },
 };
 ```
